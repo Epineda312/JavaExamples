@@ -7,6 +7,5 @@ public class AbstractionExample {
         e1.setName("Greg");
         e1.setAddress("4175 West Acres, Los Angeles, CA, 98210");
         System.out.println(e1.getCustomerInfo());
-
     }
 }
